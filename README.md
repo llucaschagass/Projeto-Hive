@@ -22,7 +22,7 @@ O Projeto Hive é um projeto de Faculdade no qual consiste em uma API Node.js ba
 ## Como executar:
 
 1. Instalar as dependências:
-2. 2. Iniciar a API:
+2. Iniciar a API:
 
 
 ## Observações:
